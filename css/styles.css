@@ -18,3 +18,13 @@ table {
   font-weight: bold;
   text-align: center;
 }
+tr:hover{
+  background-color: #B3E8E5;
+}
+
+.Toptable:hover{
+  background-color: inherit;
+}
+.Skilltable:hover{
+  background-color: inherit;
+}
